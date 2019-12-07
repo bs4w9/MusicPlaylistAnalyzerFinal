@@ -1,0 +1,6 @@
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe.config
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.csprojResolveAssemblyReference.cache
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.exe
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Release\MusicPlaylistAnalyzer.pdb
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.exe
+c:\users\blake\documents\visual studio 2015\Projects\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Release\MusicPlaylistAnalyzer.pdb
